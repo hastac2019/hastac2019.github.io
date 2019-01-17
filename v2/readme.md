@@ -1,4 +1,4 @@
-# HASTAC 2019, v1
+# HASTAC 2019, v2
 
 HASTAC 2019 (May 16-18) at UBC
 
